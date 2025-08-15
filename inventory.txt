@@ -1,0 +1,5 @@
+toy,0
+car,30
+train,50
+bus,20
+toy,100
